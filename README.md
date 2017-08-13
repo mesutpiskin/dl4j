@@ -11,3 +11,15 @@ Bu repo içerisinde, blogumda yazmaya başladığım **"dl4j ile Derin Öğrenme
 ### MNIST veri seti ile el yazısı tahmini (İleri Beslemeli Yapay Sinir Ağı)
 
 
+
+
+
+> Blog girdilerini aşağıdaki bağlantılardan takip edebilirsiniz:
+> - ***#1*** [**Deeplearning4j ile Derin Öğrenmeye Giriş** ][1] 
+
+
+
+
+  [1]: http://mesutpiskin.com/blog/deeplearning4j-ile-derin-ogrenmeye-giris.html
+
+
