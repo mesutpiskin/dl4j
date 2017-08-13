@@ -8,9 +8,6 @@ Bu repo içerisinde, blogumda yazmaya başladığım **"dl4j ile Derin Öğrenme
 
 
 
-### MNIST veri seti ile el yazısı tahmini (İleri Beslemeli Yapay Sinir Ağı)
-
-
 
 
 
